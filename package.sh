@@ -44,3 +44,4 @@ rm poppler-data.tar.gz
 
 echo "POPPLER_VERSION=$POPPLER_VERSION" >> "$GITHUB_ENV"
 echo "BUILD=$BUILD" >> "$GITHUB_ENV"
+
